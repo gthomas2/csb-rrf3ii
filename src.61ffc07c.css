@@ -1,0 +1,2 @@
+body{font-family:sans-serif;padding:0;margin:0}#app{display:grid;grid-template-rows:100px auto;height:100vh}#main-scrollable{border:1px solid red;display:grid;grid-template-rows:auto 100px;overflow:auto}#app header{background-color:red}#app main{background-color:#00f;color:#fff}#app footer{background-color:green;color:#fff}#app footer,#app header,#app main{padding:2rem}
+/*# sourceMappingURL=/csb-rrf3ii/src.61ffc07c.css.map */
